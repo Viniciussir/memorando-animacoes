@@ -38,7 +38,7 @@
     {
       "id": 7,
       "descricao": "Teste",
-      "statusFinalizado": false,
+      "statusFinalizado": true,
       "categoria": "Trabalho",
       "prioridade": "Alta"
     }
